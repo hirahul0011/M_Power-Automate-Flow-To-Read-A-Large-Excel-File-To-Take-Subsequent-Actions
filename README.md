@@ -9,8 +9,8 @@
   - and status is also not up to date.
 
 ## Message would be send in this format where 
-- some part of it is dynamic
-- and some part of it is constant.
+- Some part of it is dynamic
+- And some part of it is constant.
 
 
 
